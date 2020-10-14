@@ -1,0 +1,53 @@
+.background{
+ 
+  background-image: url(https://previews.123rf.com/images/punphoto/punphoto1203/punphoto120300094/12753800-green-grass-background-texture.jpg);
+  
+}
+.body{
+  padding: 10px;
+  margin: auto;
+  border: #282c34 solid 5px;
+  max-width: 500px;
+  height: fit-content;
+  background-color: #ff8d27;
+  border: 5px;
+  border: black;
+  border: solid;
+  border-radius: 15px;
+  justify-content: center;
+}
+
+.RedirecttoLogin{
+  display: flex;
+  position: absolute;
+  left: 50px;
+  margin: 50px;
+}
+
+.titulo{
+    display: flex;
+    font-size: -webkit-xxx-large;
+    color: white;
+    -webkit-text-stroke: thin;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+ }
+
+#error{
+  display: contents;
+  color: red;
+  font-weight: 900;
+}
+

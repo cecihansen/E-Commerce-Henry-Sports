@@ -1,0 +1,26 @@
+.contenedor{
+   margin: 50px 7.5% 0 3.5%;
+   border-bottom: 5px inset #ff800f;
+   border-right: 5px outset #ff800f;
+   box-shadow: 6px 6px 5px #999;
+}
+
+h5{
+   font-size: 20px;
+}
+
+.btn-primary{
+   margin: 10px 0px 5px;
+}
+
+
+#standard-textarea{
+   width: 500px;
+}
+
+.opiniones{
+   margin: 15px 7.5% 0 3.5%;
+   border-bottom: 5px inset #ff800f;
+   border-right: 5px outset #ff800f;
+   box-shadow: 6px 6px 5px #999;
+}
